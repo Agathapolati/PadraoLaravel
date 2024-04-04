@@ -1,0 +1,180 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-f05ecffb.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/fonts/d-din-pro-400-regular-webfont.woff": {
+    "file": "assets/d-din-pro-400-regular-webfont-6ae2e867.woff",
+    "src": "resources/fonts/d-din-pro-400-regular-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-400-regular-webfont.woff2": {
+    "file": "assets/d-din-pro-400-regular-webfont-c0562356.woff2",
+    "src": "resources/fonts/d-din-pro-400-regular-webfont.woff2"
+  },
+  "resources/fonts/d-din-pro-500-medium-webfont.woff": {
+    "file": "assets/d-din-pro-500-medium-webfont-05a8b55e.woff",
+    "src": "resources/fonts/d-din-pro-500-medium-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-500-medium-webfont.woff2": {
+    "file": "assets/d-din-pro-500-medium-webfont-d1be9df8.woff2",
+    "src": "resources/fonts/d-din-pro-500-medium-webfont.woff2"
+  },
+  "resources/fonts/d-din-pro-600-semibold-webfont.woff": {
+    "file": "assets/d-din-pro-600-semibold-webfont-3d71140e.woff",
+    "src": "resources/fonts/d-din-pro-600-semibold-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-600-semibold-webfont.woff2": {
+    "file": "assets/d-din-pro-600-semibold-webfont-5ef4e018.woff2",
+    "src": "resources/fonts/d-din-pro-600-semibold-webfont.woff2"
+  },
+  "resources/fonts/d-din-pro-700-bold-webfont.woff": {
+    "file": "assets/d-din-pro-700-bold-webfont-07258129.woff",
+    "src": "resources/fonts/d-din-pro-700-bold-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-700-bold-webfont.woff2": {
+    "file": "assets/d-din-pro-700-bold-webfont-76f2836c.woff2",
+    "src": "resources/fonts/d-din-pro-700-bold-webfont.woff2"
+  },
+  "resources/fonts/d-din-pro-800-extrabold-webfont.woff": {
+    "file": "assets/d-din-pro-800-extrabold-webfont-42308a08.woff",
+    "src": "resources/fonts/d-din-pro-800-extrabold-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-800-extrabold-webfont.woff2": {
+    "file": "assets/d-din-pro-800-extrabold-webfont-01def498.woff2",
+    "src": "resources/fonts/d-din-pro-800-extrabold-webfont.woff2"
+  },
+  "resources/fonts/d-din-pro-900-heavy-webfont.woff": {
+    "file": "assets/d-din-pro-900-heavy-webfont-d69dd6b0.woff",
+    "src": "resources/fonts/d-din-pro-900-heavy-webfont.woff"
+  },
+  "resources/fonts/d-din-pro-900-heavy-webfont.woff2": {
+    "file": "assets/d-din-pro-900-heavy-webfont-c22a07a5.woff2",
+    "src": "resources/fonts/d-din-pro-900-heavy-webfont.woff2"
+  },
+  "resources/fonts/din_pro_condensed_regular_400-webfont.woff": {
+    "file": "assets/din_pro_condensed_regular_400-webfont-9e6f3be2.woff",
+    "src": "resources/fonts/din_pro_condensed_regular_400-webfont.woff"
+  },
+  "resources/fonts/din_pro_condensed_regular_400-webfont.woff2": {
+    "file": "assets/din_pro_condensed_regular_400-webfont-de195b55.woff2",
+    "src": "resources/fonts/din_pro_condensed_regular_400-webfont.woff2"
+  },
+  "resources/images/10.jpg": {
+    "file": "assets/10-1679a1ae.jpg",
+    "src": "resources/images/10.jpg"
+  },
+  "resources/images/11.jpg": {
+    "file": "assets/11-1490f2cb.jpg",
+    "src": "resources/images/11.jpg"
+  },
+  "resources/images/2.jpg": {
+    "file": "assets/2-5f0158bd.jpg",
+    "src": "resources/images/2.jpg"
+  },
+  "resources/images/3.jpg": {
+    "file": "assets/3-aee19723.jpg",
+    "src": "resources/images/3.jpg"
+  },
+  "resources/images/4.jpg": {
+    "file": "assets/4-3b0e9c40.jpg",
+    "src": "resources/images/4.jpg"
+  },
+  "resources/images/5.jpg": {
+    "file": "assets/5-8eecc517.jpg",
+    "src": "resources/images/5.jpg"
+  },
+  "resources/images/6.jpg": {
+    "file": "assets/6-3f62c1a4.jpg",
+    "src": "resources/images/6.jpg"
+  },
+  "resources/images/7.jpg": {
+    "file": "assets/7-4854c19e.jpg",
+    "src": "resources/images/7.jpg"
+  },
+  "resources/images/8.jpg": {
+    "file": "assets/8-518442e6.jpg",
+    "src": "resources/images/8.jpg"
+  },
+  "resources/images/9.jpg": {
+    "file": "assets/9-f2448edc.jpg",
+    "src": "resources/images/9.jpg"
+  },
+  "resources/images/banner.png": {
+    "file": "assets/banner-13aa00f4.png",
+    "src": "resources/images/banner.png"
+  },
+  "resources/images/churrasco.png": {
+    "file": "assets/churrasco-32c3742e.png",
+    "src": "resources/images/churrasco.png"
+  },
+  "resources/images/favicon/android-chrome-192x192.png": {
+    "file": "assets/android-chrome-192x192-dfeb10d2.png",
+    "src": "resources/images/favicon/android-chrome-192x192.png"
+  },
+  "resources/images/favicon/android-chrome-512x512.png": {
+    "file": "assets/android-chrome-512x512-15c13719.png",
+    "src": "resources/images/favicon/android-chrome-512x512.png"
+  },
+  "resources/images/favicon/apple-touch-icon.png": {
+    "file": "assets/apple-touch-icon-3dad6a25.png",
+    "src": "resources/images/favicon/apple-touch-icon.png"
+  },
+  "resources/images/favicon/favicon-16x16.png": {
+    "file": "assets/favicon-16x16-1c3d6d3b.png",
+    "src": "resources/images/favicon/favicon-16x16.png"
+  },
+  "resources/images/favicon/favicon-32x32.png": {
+    "file": "assets/favicon-32x32-55f0840e.png",
+    "src": "resources/images/favicon/favicon-32x32.png"
+  },
+  "resources/images/favicon/favicon.ico": {
+    "file": "assets/favicon-3b6761c8.ico",
+    "src": "resources/images/favicon/favicon.ico"
+  },
+  "resources/images/favicon/mstile-150x150.png": {
+    "file": "assets/mstile-150x150-e044ef25.png",
+    "src": "resources/images/favicon/mstile-150x150.png"
+  },
+  "resources/images/favicon/safari-pinned-tab.svg": {
+    "file": "assets/safari-pinned-tab-ff1076d6.svg",
+    "src": "resources/images/favicon/safari-pinned-tab.svg"
+  },
+  "resources/images/favicon/site.webmanifest": {
+    "file": "assets/site-310b8694.webmanifest",
+    "src": "resources/images/favicon/site.webmanifest"
+  },
+  "resources/images/icones/next.png": {
+    "file": "assets/next-3605ce3e.png",
+    "src": "resources/images/icones/next.png"
+  },
+  "resources/images/icones/prev.png": {
+    "file": "assets/prev-b8c5e3bd.png",
+    "src": "resources/images/icones/prev.png"
+  },
+  "resources/images/logo.png": {
+    "file": "assets/logo-2795700d.png",
+    "src": "resources/images/logo.png"
+  },
+  "resources/images/panqueca.png": {
+    "file": "assets/panqueca-4b0776d6.png",
+    "src": "resources/images/panqueca.png"
+  },
+  "resources/images/posts/cloud.png": {
+    "file": "assets/cloud-6de01c9f.png",
+    "src": "resources/images/posts/cloud.png"
+  },
+  "resources/images/posts/show.png": {
+    "file": "assets/show-d8459f63.png",
+    "src": "resources/images/posts/show.png"
+  },
+  "resources/images/posts/unimed-click.png": {
+    "file": "assets/unimed-click-ccaf0a90.png",
+    "src": "resources/images/posts/unimed-click.png"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-ddee773b.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
